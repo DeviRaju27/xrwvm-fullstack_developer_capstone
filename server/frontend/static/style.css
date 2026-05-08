@@ -124,3 +124,9 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+.contact_main_card img{
+    width:25%;
+}
+.contact_inner_card{
+    width:100%;
+}
